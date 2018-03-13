@@ -1,4 +1,4 @@
-# Content Stats
+# Content Stats WordPress Plugin
 Content Stats is a very useful plugin that helps you to keep the track of all Posts/Pages views.
 
 You have to drag-drop the Content Stats widget into any of the sidebar in order to display it in the front end.
