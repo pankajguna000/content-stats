@@ -1,0 +1,41 @@
+.clear{
+    clear:both;}
+
+.graphcont {
+padding-top:0px;
+color:#000;
+float:right;
+}
+
+.graph 
+{
+float:left;
+margin-top:-24px;
+background-color:#f4f4f4;
+position:relative;
+width:300px;
+margin-left:36px;
+}
+
+.graph .bar 
+{
+display:block;
+position:relative;
+background-image:url(images/bargraph1.gif);
+background-position:right center;
+background-repeat:repeat-x;
+border-right:#538e02 1px solid;
+text-align:center;
+color:#fff;
+height:25px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+line-height:1.9em;
+}
+
+.graph .bar span 
+{
+position:absolute;
+left:1em;
+}
+
